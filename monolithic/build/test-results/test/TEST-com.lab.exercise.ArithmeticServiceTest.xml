@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lab.exercise.ArithmeticServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-24T19:53:39" hostname="FR-NF008-1019" time="0.024">
+  <properties/>
+  <testcase name="testDivideByZero()" classname="com.lab.exercise.ArithmeticServiceTest" time="0.019"/>
+  <testcase name="testAdd()" classname="com.lab.exercise.ArithmeticServiceTest" time="0.001"/>
+  <testcase name="testSubtract()" classname="com.lab.exercise.ArithmeticServiceTest" time="0.0"/>
+  <testcase name="testDivide()" classname="com.lab.exercise.ArithmeticServiceTest" time="0.0"/>
+  <testcase name="testMultiply()" classname="com.lab.exercise.ArithmeticServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
