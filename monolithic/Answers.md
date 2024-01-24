@@ -1,8 +1,12 @@
 ## Answer to Part 1 Q5 in Lab Manual
 "Which of the following statements accurately reflect the pros and cons of monolithic architecture?"
+
 A. Monolithic architecture simplifies the development and deployment process as the application is built and managed as a single unit.
+
 C. In a monolithic application, a failure in one part of the system can potentially bring down the entire application, indicating a single point of failure.
+
 E. Testing in monolithic architecture can be more straightforward, as the entire application is integrated and can be tested as a whole.
+
 F. Updating or adding new features to a monolithic application can be risky and time-consuming, as changes affect the entire application.
 
 # Monolithic Architecture Lab Questions
